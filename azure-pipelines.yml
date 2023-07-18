@@ -26,6 +26,6 @@ steps:
       --detect.blackduck.signature.scanner.individual.file.matching=ALL
       --detect.detector.search.depth=100
       --detect.blackduck.signature.scanner.upload.source.mode=true
-      --detect.project.name=WebGoat_Jenkins
+      --detect.project.name=WebGoat_Azure_DevOps_Stefan
       --detect.project.version.name=1.0
     DetectVersion: 'latest'
